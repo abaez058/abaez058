@@ -15,7 +15,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 -  Junior studying Computer Science at **Florida International University**
 -  Passionate about **game development** — turning ideas into playable worlds
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Description | Language |
 |---|---|---|
