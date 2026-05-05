@@ -36,47 +36,4 @@
 
 </div>
 
----
-
-##  Featured Projects
-
-| Project | Description | Language |
-|---|---|---|
-| [TWO-SUM-LeetcodeSolution](https://github.com/abaez058/TWO-SUM-LeetcodeSolution) | LeetCode #1 — return indices of two numbers that add up to target | Python |
-| [Heap](https://github.com/abaez058/Heap) | Heap data structure implementation | Java |
-| [AnyTypeMergeSort](https://github.com/abaez058/AnyTypeMergeSort) | Generic merge sort that works on any comparable type | Java |
-| [Graph](https://github.com/abaez058/Graph) | Graph data structure implementation | Java |
-| [Interface](https://github.com/abaez058/Interface) | Java interfaces practice | Java |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abaez058&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaez058&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=abaez058&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-##  Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abaez058/abaez058/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abaez058/abaez058/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/abaez058/abaez058/output/github-snake.svg" />
-</picture>
-
-</div>
-
 
