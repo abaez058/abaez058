@@ -9,7 +9,7 @@
 
 <br/>
 
->  Junior @ FIU · Miami, FL · Building games and sharpening my CS fundamentals
+>  Senior @ FIU · Miami, FL · Building games and sharpening my CS fundamentals
 
 </div>
 
