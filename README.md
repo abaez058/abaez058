@@ -31,6 +31,4 @@ I own the following domains:
 - 💬 **Discord:** `vandrw#6859`
 - 📧 **Email:** [abaez058@fiu.edu](mailto:abaez058@fiu.edu)
 
----
 
-<p align="center"><i>"The best way to understand something is to take it apart."</i></p>
