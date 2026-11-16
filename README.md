@@ -1,39 +1,36 @@
-<div align="center">
+<h1 align="center">👋 Hi there! I'm Andrew</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Andrew+Baez+%F0%9F%91%8B;Aspiring+Game+Developer;CS+Student+%40+FIU;Java+%7C+Python+%7C+Always+Learning" alt="Typing SVG" />
+<p align="center">
+  I'm a full-stack software developer with a passion for building game environments, writing code, and immersing myself in the path to becoming a <b>Technical Artist</b>.
+</p>
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/abaez058?style=for-the-badge&color=6E40C9&labelColor=1a1a2e)](https://github.com/abaez058?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=abaez058&style=for-the-badge&color=6E40C9)](https://github.com/abaez058)
-
-<br/>
-
->  Senior @ FIU · Miami, FL · Building games and sharpening my CS fundamentals
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-vandrw%236859-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <a href="mailto:abaez058@fiu.edu"><img src="https://img.shields.io/badge/Email-abaez058%40fiu.edu-0072CE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-##  About Me
+## 🛠️ My Skillset
 
--  Junior studying Computer Science at **Florida International University**
--  Passionate about **game development** — turning ideas into playable worlds
--  Currently sharpening my skills in **data structures & algorithms**
--  Learning: game engines, system design, and everything in between
--  Based in **Miami, FL**
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,github,mysql,aws,azure,unreal,blender,ps,pr)](https://skillicons.dev)
+
+## 🚀 What I'm Up To
+
+- 🌱 I'm always learning and exploring new tools, mostly through dedicated YouTube tutorials on **Unreal Engine**, **C++**, **Adobe Premiere**, **Adobe Photoshop**, and **Blender**.
+- 💡 That's where my interests lie: software development and understanding what makes a game work, from **game logic** and **themes** to **art style**, **animation**, **music**, and **production**.
+
+## 🌐 My Domains
+
+I own the following domains:
+
+- `xxx` <- My portfolio website (WIP)
+
+## 📫 How to Reach Me
+
+- 💬 **Discord:** `vandrw#6859`
+- 📧 **Email:** [abaez058@fiu.edu](mailto:abaez058@fiu.edu)
 
 ---
 
-##  Tech Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-
+<p align="center"><i>"The best way to understand something is to take it apart."</i></p>
