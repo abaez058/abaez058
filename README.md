@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Andrew</h1>
+<h1 align="center"> Hi there! I'm Andrew</h1>
 
 <p align="center">
   I'm a full-stack software developer with a passion for building game environments, writing code, and immersing myself in the path to becoming a <b>Technical Artist</b>.
@@ -11,24 +11,24 @@
 
 ---
 
-## 🛠️ My Skillset
+##  My Skillset
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,github,mysql,aws,azure,unreal,blender,ps,pr)](https://skillicons.dev)
 
-## 🚀 What I'm Up To
+##  What I'm Up To
 
-- 🌱 I'm always learning and exploring new tools, mostly through dedicated YouTube tutorials on **Unreal Engine**, **C++**, **Adobe Premiere**, **Adobe Photoshop**, and **Blender**.
-- 💡 That's where my interests lie: software development and understanding what makes a game work, from **game logic** and **themes** to **art style**, **animation**, **music**, and **production**.
+-  I'm always learning and exploring new tools, mostly through dedicated YouTube tutorials on **Unreal Engine**, **C++**, **Adobe Premiere**, **Adobe Photoshop**, and **Blender**.
+-  That's where my interests lie: software development and understanding what makes a game work, from **game logic** and **themes** to **art style**, **animation**, **music**, and **production**.
 
-## 🌐 My Domains
+##  My Domains
 
 I own the following domains:
 
 - `xxx` <- My portfolio website (WIP)
 
-## 📫 How to Reach Me
+##  How to Reach Me
 
-- 💬 **Discord:** `vandrw#6859`
-- 📧 **Email:** [abaez058@fiu.edu](mailto:abaez058@fiu.edu)
+-  **Discord:** `vandrw#6859`
+-  **Email:** [abaez058@fiu.edu](mailto:abaez058@fiu.edu)
 
 
